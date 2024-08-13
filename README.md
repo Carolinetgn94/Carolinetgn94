@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carolinetgn94
 - 👀 I’m interested in beautiful designs, and discovering new tools to make my life easier!
-- 🌱 I’m currently learning software development, typescript & next.js.
+- 🌱 I’m currently learning python, django & next.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ gekniateh@gmail.com
 
